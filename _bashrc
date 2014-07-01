@@ -1,0 +1,6 @@
+
+if [ -f /etc/bash_completion ]; then
+       . /etc/bash_completion
+fi
+
+alias activetrip="source /home/yongbo/project/virtualenv/tripproj/bin/activate"
