@@ -307,3 +307,5 @@ endif
 if exists("&colorcolumn")
    set colorcolumn=79
 endif
+vmap <c-c> "+y
+map <c-v> "+p
