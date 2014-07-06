@@ -3,4 +3,5 @@ if [ -f /etc/bash_completion ]; then
        . /etc/bash_completion
 fi
 
+export PYTHONSTARTUP=~/.pystartup
 alias activetrip="source /home/yongbo/project/virtualenv/tripproj/bin/activate"
