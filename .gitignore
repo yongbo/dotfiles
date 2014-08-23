@@ -4,3 +4,5 @@
 *.swp
 *.pyc
 _vim/
+ _vim/bundle/acp
+_vim/bundle/nerdtree
